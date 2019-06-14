@@ -1,10 +1,15 @@
     
 body{
-    
+    font-family: "Open Sans",sans-serif;
+    font-size: .9375rem;
+    font-weight: 300;
+    line-height: 1.9;
+    color: #c2c2c2;
+    text-align: left;
     /* background-color: #0f121f; */
     /* background-image: url(/static/stars.png); */
     /* background-repeat: no-repeat; */
-    color: #1e0029;
+    /* color: #1e0029; */
     background: #20002c;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #cbb4d4, #20002c);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
