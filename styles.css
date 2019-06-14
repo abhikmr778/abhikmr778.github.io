@@ -4,7 +4,7 @@ body{
     /* background-color: #0f121f; */
     /* background-image: url(/static/stars.png); */
     /* background-repeat: no-repeat; */
-    color: #fff;
+    color: #1e0029;
     background: #20002c;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #cbb4d4, #20002c);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -20,8 +20,11 @@ h1, h2, h3, h4, h5{
 }
 
 a, a:hover, a:visited{
-    color: #fff;
+    color: #20002c;
     text-decoration: none;
+}
+.dropdown-item{
+    color: #20002c;
 }
 .bg-purple{
     background-color: #20002c;
